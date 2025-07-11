@@ -134,6 +134,12 @@ ENV/
 env.bak/
 venv.bak/
 lc-academy-env/
+.venv/
+
+# LangGraph specific
+.langgraph/
+*.db
+state_db/
 
 # Spyder project settings
 .spyderproject
